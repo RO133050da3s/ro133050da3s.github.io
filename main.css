@@ -95,7 +95,7 @@ nav a, nav a:visited { /* grouping these selectors makes sure that your links re
 	background-color: #B4A883;
 }
 nav a:hover, nav a:active, nav a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
-	background-color: #ADB96E;
+	background-color: #C8B065;
 	color: #FFF;
 }
 
